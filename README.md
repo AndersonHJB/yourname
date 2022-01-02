@@ -1,4 +1,4 @@
 ## [Your Name](https://AndersonHJB.github.io/yourname/index.html)
 
-[Heart Beat](https://rawgit.com/AndersonHJB/yourname/master/heartbeat.html)
+[Heart Beat](https://github.aiyc.top/yourname/heartbeat.html)
 
